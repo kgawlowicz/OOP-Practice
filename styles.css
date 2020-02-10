@@ -1,0 +1,12 @@
+#sq-container{
+    position: relative;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+/* This will make square respect x/y values strictly within the square container */
+
