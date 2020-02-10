@@ -3,9 +3,8 @@
 }
 
 .square {
-    width: 100px;
-    height: 100px;
     position: absolute;
+    cursor: pointer;
 }
 
 /* This will make square respect x/y values strictly within the square container */
